@@ -1,0 +1,27 @@
+Um App em que o usuario dá notas e avaliações para diversas coisas do dia a dia, como filmes, series, jogos, livros, comidas, lugares, exercicios, musicas. O intuito do app é ajudar
+a organizar os gostos e lembrar nomes de conteúdos que o usuario gostou e se indentificou.
+
+A versão final deve ser um app mobile em que eu possa tirar fotos, adicionar a um docie do produto e colocar descrição, nota, quando conheci ou consumi, um opção de compartilhar
+o docie resumido para alguem via wpp ou outro meio, para um caso de estudo adicionar também as funcionalidades: usuario, login e senha, api de validação de senha, banco de dados, amizade
+de usuarios, comunicação entre usuarios(com chat).
+
+
+Etapas Preliminares do projeto
+
+01 - Montar cronograma , esquema do projeto, e estudar os frameworks que serão usados.
+    01 - Montar cronograma
+    02 - Esquema do projeto
+    03 - Estudar os frameworks que serão usados
+        - Desktop = Python
+        - Web = Python - Flask, Mysql
+        - Mobile = Flutter.
+02 - Criação das Apis de validação de usuarios e de utilização do banco de dados.
+03 - Desenvolvimento de funcionalidades basicas para o Desktop.
+04 - Versão Desktop finalizada e com todas as integrações de apis funcionando.
+05 - Prototipo basico do Site.
+06 - Desenvolvimento das funcionalidades.
+07 - Versão Web finalizada e testada.
+08 - Prototipo basico do App.
+09 - Desenvolvimento das funcionalidades.
+10 - App finalizado e testado.
+Final - Publicação do app na google play.
